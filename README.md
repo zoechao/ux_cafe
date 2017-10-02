@@ -20,7 +20,7 @@ You are free to use my work with attribution (see the creative commons license b
 
 If you use my work please cite me using. A suggested format is provided below.
 
-Chao, Szu-yu. 2017. UX Cafe. doi: xxxxxxxxxxx
+Chao, Szu-yu. 2017. UX Cafe. https://doi.org/10.18113/S12H09
 
 
 
