@@ -6,7 +6,7 @@ UX Cafe is a venue for students to share their thoughts about our website in exc
 
 ## Contents
 
-[file name] (png) -- used on my table to attract students
+ux_cafe_poster_example.png -- The poster I used on my table to attract students.
 
 
 ## Contributing
