@@ -2,11 +2,11 @@
 
 # UX Cafe
 
-UX Café is a venue for students to share their thoughts about our website in exchange for a cup of coffee and a granola bar. Each week, the UX Librarian, Zoe Chao, spends 5-10 minutes interviewing participants and observing them conducting usability tasks. These tasks have defined scopes and are designed to answer web user experience questions raised by product owners, stakeholders and the web team. The UX Café was sponsored by the Library Faculty Organization Research Grant.
+UX Cafe is a venue for students to share their thoughts about our website in exchange for a cup of coffee and a granola bar. Each week, the UX Librarian, Zoe Chao, spends 5-10 minutes interviewing participants and observing them conducting usability tasks. These tasks have defined scopes and are designed to answer web user experience questions raised by product owners, stakeholders and the web team. The UX Café was sponsored by the Library Faculty Organization Research Grant.
 
 ## Contents
 
-[file name] (png) -- used on my table to attract students
+ux_cafe_poster_example.png -- The poster I used on my table to attract students.
 
 ## Contributing
 
@@ -19,7 +19,7 @@ You are free to use my work with attribution (see the creative commons license b
 
 If you use my work please cite me using. A suggested format is provided below.
 
-Chao, Szu-yu. 2017. UX Cafe. doi: xxxxxxxxxxx
+Chao, Szu-yu. 2017. UX Cafe. https://doi.org/10.18113/S12H09
 
 
 
