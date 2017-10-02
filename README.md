@@ -8,7 +8,6 @@ UX Café is a venue for students to share their thoughts about our website in ex
 
 [file name] (png) -- used on my table to attract students
 
-i made some changes
 ## Contributing
 
 You are free to use my work with attribution (see the creative commons license below). If you want to contribute directly to this project feel free to fork the repository, make changes and then submit a pull request.
