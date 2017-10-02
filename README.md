@@ -2,7 +2,7 @@
 
 # UX Cafe
 
-UX Café is a venue for students to share their thoughts about our website in exchange for a cup of coffee and a granola bar. Each week, the UX Librarian, Zoe Chao, spends 5-10 minutes interviewing participants and observing them conducting usability tasks. These tasks have defined scopes and are designed to answer web user experience questions raised by product owners, stakeholders and the web team. The UX Café was sponsored by the Library Faculty Organization Research Grant.
+UX Cafe is a venue for students to share their thoughts about our website in exchange for a cup of coffee and a granola bar. Each week, the UX Librarian, Zoe Chao, spends 5-10 minutes interviewing participants and observing them conducting usability tasks. These tasks have defined scopes and are designed to answer web user experience questions raised by product owners, stakeholders and the web team. The UX Café was sponsored by the Library Faculty Organization Research Grant.
 
 ## Contents
 
