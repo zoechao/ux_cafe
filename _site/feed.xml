@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>zoe's ux cafe - Articles</title>
+    <description>these are the stuff for zoe's ux cafe
+</description>
+    <link>
+    http://0.0.0.0:8080</link>
+    
+      
+      <item>
+        <title>First Page</title>
+        
+          <description>&lt;p&gt;I did stuff.&lt;/p&gt;
+</description>
+        
+        <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
+        <link>
+        http://0.0.0.0:8080/first-page.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/first-page.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Features</title>
+        
+          <description>&lt;p&gt;This is &lt;span class=&quot;capsule&quot;&gt;accent&lt;/span&gt; a minimal, mobile friendly theme for &lt;span class=&quot;capsule&quot;&gt;Jekyll&lt;/span&gt;&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 11 Feb 2016 00:00:00 +0000</pubDate>
+        <link>
+        http://0.0.0.0:8080/features.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/features.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Documentation</title>
+        
+          <description>&lt;h3 id=&quot;installation&quot;&gt;Installation&lt;/h3&gt;
+
+</description>
+        
+        <pubDate>Thu, 11 Feb 2016 00:00:00 +0000</pubDate>
+        <link>
+        http://0.0.0.0:8080/documentation.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/documentation.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Welcome To Jekyll</title>
+        
+          <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Wed, 10 Feb 2016 00:00:00 +0000</pubDate>
+        <link>
+        http://0.0.0.0:8080/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/welcome-to-jekyll.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Testing</title>
+        
+          <description>&lt;h1 id=&quot;header-1&quot;&gt;Header 1&lt;/h1&gt;
+
+</description>
+        
+        <pubDate>Wed, 10 Feb 2016 00:00:00 +0000</pubDate>
+        <link>
+        http://0.0.0.0:8080/testing.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/testing.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Guest Posts</title>
+        
+          <description>&lt;p&gt;Chaplin has support for guest posts. That means that if you were to have another blogger write on your blog, just edit the &lt;code class=&quot;highlighter-rouge&quot;&gt;YAML&lt;/code&gt; front matter like so:&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Wed, 10 Feb 2016 00:00:00 +0000</pubDate>
+        <link>
+        http://0.0.0.0:8080/guest-posts.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/guest-posts.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Example Content</title>
+        
+          <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ullamcorper est in imperdiet molestie. Curabitur aliquet sem in ante venenatis.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Wed, 10 Feb 2016 00:00:00 +0000</pubDate>
+        <link>
+        http://0.0.0.0:8080/example-content.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/example-content.html</guid>
+      </item>
+      
+    
+  </channel>
+</rss>

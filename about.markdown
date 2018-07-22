@@ -1,7 +1,5 @@
 ---
 layout: about
-title: accent
-author: Ankit Sultana
 permalink: /about
 ---
 
